@@ -1,0 +1,2 @@
+export const IMG_PREVIEW_PANEL_HEIGHT = 232;
+export const IMG_PREVIEW_PANEL_WIDTH = 660;

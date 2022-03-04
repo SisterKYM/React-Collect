@@ -1,0 +1,23 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/node_modules_dev
+/node_modules_prod
+public/index.html
+public/favicon.ico
+
+# production
+/build
+
+#eslint
+.eslintcache
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+__snapshots__
+yarn-error.log
+.idea/
+

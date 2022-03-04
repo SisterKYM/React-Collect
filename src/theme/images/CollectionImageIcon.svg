@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>CollectionImageIcon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CollectionImageIcon" stroke-width="2">
+            <g transform="translate(1.000000, 1.000000)" id="Layer_1">
+                <g>
+                    <rect id="Rectangle-path" fill="#FFFFFF" x="0.137254902" y="0.137254902" width="97.9215686" height="98.1372549" rx="3.74"></rect>
+                    <path d="M24.1960784,24.4901961 L61.8235294,24.4901961" id="Shape" fill="#000000"></path>
+                    <path d="M24.1960784,36.254902 L43.0196078,36.254902" id="Shape" fill="#000000"></path>
+                    <path d="M24.1960784,49.9803922 L43.0196078,49.9803922" id="Shape" fill="#000000"></path>
+                    <path d="M24.1960784,63.7058824 L38.3137255,63.7058824" id="Shape" fill="#000000"></path>
+                    <path d="M63.7058824,73.1176471 L63.7058824,77.5294118" id="Shape" fill="#000000"></path>
+                    <path d="M63.7058824,42.2156863 L63.7058824,46.627451" id="Shape" fill="#000000"></path>
+                    <path d="M57.1372549,66.4901961 C56.9522011,69.3888476 58.5567155,72.1063678 61.1842051,73.3444 C63.8116947,74.5824323 66.9288378,74.0896837 69.046349,72.101576 C71.1638601,70.1134683 71.8519318,67.0335431 70.7818222,64.333304 C69.7117126,61.6330649 67.1006302,59.8606003 64.1960784,59.8627451 C60.601369,59.6282646 57.8522232,56.5653872 58.0060609,52.9663246 C58.1598986,49.3672621 61.1603777,46.5501456 64.7619844,46.6232631 C68.3635912,46.6963806 71.2472626,49.6329534 71.254902,53.2352941" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

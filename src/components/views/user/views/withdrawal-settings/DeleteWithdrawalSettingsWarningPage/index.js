@@ -1,0 +1,3 @@
+import DeleteWithdrawalSettingsWarningPage from './DeleteWithdrawalSettingsWarningPage';
+
+export default DeleteWithdrawalSettingsWarningPage;

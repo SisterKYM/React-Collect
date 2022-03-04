@@ -1,0 +1,3 @@
+import RecurringPaymentContractListContainer from './RecurringPaymentContractListContainer';
+
+export default RecurringPaymentContractListContainer;

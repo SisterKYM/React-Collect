@@ -1,0 +1,72 @@
+
+table {
+  border-spacing: 0;
+}
+
+td {
+  padding: 0;
+}
+
+.grecaptcha-badge {
+  visibility: hidden;
+}
+
+.smartbanner {
+  background: #fff;
+  box-shadow: none;
+}
+
+.smartbanner .smartbanner-button {
+  box-shadow: none;
+  color: #2c7b91;
+  font-size: 16px;
+  font-weight: 400;
+}
+.smartbanner .smartbanner-button-text {
+  background: none;
+  padding: 0;
+}
+.smartbanner .smartbanner-button-text:active,
+.smartbanner .smartbanner-button-text:hover {
+  background: none;
+}
+
+.smartbanner .smartbanner-close {
+  background: none;
+  box-shadow: none;
+  color: #000;
+  font-size: 32px;
+  height: 20px;
+  line-height: 20px;
+  max-width: 20px;
+  text-shadow: none;
+}
+
+.smartbanner .smartbanner-description {
+  font-size: 12px;
+}
+
+.smartbanner-icon {
+  border: 1px solid #dedede;
+  border-radius: 5px;
+}
+.main-border {
+  border: 1px solid #dedede;
+  border-radius: 4px;
+}
+.smartbanner .smartbanner-info {
+  color: #373737;
+  font-weight: 400;
+  text-shadow: none;
+}
+
+.smartbanner .smartbanner-title {
+  color: #373737;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.smartbanner-wrapper {
+  max-width: 100px;
+}

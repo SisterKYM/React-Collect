@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>.fill-tint{fill:#257a91;}</style>
+    </defs>
+    <path class="fill-tint"
+          d="M10,0A10,10,0,1,0,20,10,10,10,0,0,0,10,0Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,10,18Zm1-9h3v2H11v3H9V11H6V9H9V6h2Z"/>
+</svg>

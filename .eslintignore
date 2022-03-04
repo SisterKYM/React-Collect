@@ -1,0 +1,6 @@
+/*
+!/scripts
+!/scripts/**/.*.js
+!/src
+!/src/**/.*.js
+!/*.js

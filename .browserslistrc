@@ -1,0 +1,16 @@
+[development]
+last 2 chrome versions
+last 2 firefox versions
+last 2 edge versions
+ie 11
+
+[production]
+>0.5%
+last 4 versions
+Firefox ESR
+ios_saf >= 9
+safari >= 9
+not dead
+not op_mini all
+not ie < 11
+

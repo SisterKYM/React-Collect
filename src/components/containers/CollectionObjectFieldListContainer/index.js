@@ -1,0 +1,3 @@
+import CollectionObjectFieldListContainer from './CollectionObjectFieldListContainer';
+
+export default CollectionObjectFieldListContainer;

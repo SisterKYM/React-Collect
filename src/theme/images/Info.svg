@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.998" height="15.998" viewBox="0 0 15.998 15.998">
+    <defs>
+        <style>.bg-brand-svg{fill:#f36d36;}.bg-white-svg{fill:#fff;}</style>
+    </defs>
+    <g transform="translate(-348.794 -346.595)">
+        <circle class="bg-brand-svg" cx="7.999" cy="7.999" r="7.999" transform="translate(348.794 346.595)"/>
+        <path class="bg-white-svg"
+              d="M357.328,356.7h-1.14l-.511-7.3h2.151Zm-.454,1.081a.972.972,0,0,1,1.035.965c0,.662-.5,1.046-1.209,1.046a.979.979,0,0,1-.988-.953A1.094,1.094,0,0,1,356.874,357.78Z"/>
+    </g>
+</svg>

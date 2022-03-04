@@ -1,0 +1,3 @@
+import PaymentToOthersPaymentItemReportPage from './PaymentToOthersPaymentItemReportPage';
+
+export default PaymentToOthersPaymentItemReportPage;

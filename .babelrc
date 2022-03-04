@@ -1,0 +1,41 @@
+{
+  "env": {
+    "production": {
+      "plugins": ["styled-jsx/babel"]
+    },
+    "development": {
+      "plugins": ["styled-jsx/babel"]
+    }
+  },
+  "presets": [
+    [
+      "react-app",
+      {
+        "flow": false,
+        "typescript": false
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "lodash",
+      {
+        "id": ["lodash", "recompose"]
+      }
+    ],
+    "@babel/plugin-proposal-optional-chaining",
+    [
+      "transform-imports",
+      {
+        "elements": {
+          "transform": "elements/${member}",
+          "preventFullImport": true
+        },
+        "hooks": {
+          "transform": "hooks/${member}",
+          "preventFullImport": true
+        }
+      }
+    ]
+  ]
+}

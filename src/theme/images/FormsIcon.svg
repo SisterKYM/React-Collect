@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Forms Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forms-Icon" fill="#FFFFFF">
+            <g id="SidebarForms" transform="translate(1.000000, 2.000000)">
+                <g id="Layer_2">
+                    <g>
+                        <g id="Layer_1-2">
+                            <path d="M5.92,0.84 L8.92,3.84 L4.8,7.88 L1.8,4.88 C1.26072038,4.35458918 0.95761509,3.63290992 0.96,2.88 C0.95761509,2.12709008 1.26072038,1.40541082 1.8,0.88 C2.32541082,0.340720376 3.04709008,0.0376150896 3.8,0.04 C4.58820966,-0.00649639911 5.35900757,0.284370738 5.92,0.84 L5.92,0.84 Z M18.79,21.84 L7.19,10.27 L11.27,6.19 L22.8,17.79 L24.8,23.79 L18.79,21.84 Z M36.33,7.42 C36.7609555,7.83222581 37.0032651,8.40364268 37,9 L37,33.75 C36.9838426,34.9858862 35.9858862,35.9838426 34.75,36 L10,36 C8.76411381,35.9838426 7.76615744,34.9858862 7.75,33.75 L7.75,17.75 L10,20 L10,33.75 L34.75,33.75 L34.75,9 L21,9 L18.79,6.75 L34.79,6.75 C35.3724523,6.75758704 35.9273984,6.99902464 36.33,7.42 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

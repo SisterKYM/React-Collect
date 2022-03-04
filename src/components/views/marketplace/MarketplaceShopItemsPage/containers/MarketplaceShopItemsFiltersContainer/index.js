@@ -1,0 +1,3 @@
+import MarketplaceShopItemsFiltersContainer from './MarketplaceShopItemsFiltersContainer';
+
+export default MarketplaceShopItemsFiltersContainer;

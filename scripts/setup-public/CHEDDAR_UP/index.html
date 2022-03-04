@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+
+    <script src="https://unpkg.com/core-js-bundle@3.1.4/minified.js"></script>
+    <script>
+      window.zESettings = window.zESettings || {};
+      window.zESettings.webWidget = window.zESettings.webWidget || {};
+      window.zESettings.webWidget.color = {
+        theme: '#2c7b91',
+        launcher: '#f36d36', // This will also update the badge
+        launcherText: '#ffffff',
+        button: '#2c7b91',
+        resultLists: '#691840',
+        header: '#2c7b91',
+        articleLinks: '#ffffff'
+      };
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N3D6S7F');</script>
+    <script src='https://js.stripe.com/v3/'></script>
+    <!-- End Google Tag Manager -->
+    <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1' />
+    <meta name="description" content="Collect money online in minutes. Cheddar Up helps you collect payments and track information from a group or community. Anyone can pay without having an app or account. You can use Cheddar Up to collect both online and in-person payments for almost anything - from membership dues to group gifts to events to sales.">
+    <meta name='apple-itunes-app' content='app-id=1141129202' />
+    <meta name='google-play-app' content='app-id=com.cheddarup.CheddarUp' />
+    <link rel='apple-touch-icon' href='%PUBLIC_URL%/favicon.ico' />
+    <link rel='android-touch-icon' href='%PUBLIC_URL%/favicon.ico' />
+    <link rel='shortcut icon' href='%PUBLIC_URL%/favicon.ico' />
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans' />
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i&display=swap" />
+    <script type="text/javascript" src='%PUBLIC_URL%/MyFontsWebfontsKit.js'></script>
+  </head>
+  <body>
+    <div id='root'></div>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3D6S7F"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script>
+      /* Stripe */
+      (function() {
+        if(window.Stripe) {
+          window.StripeInstance = window.Stripe('%REACT_APP_STRIPE_PUBLISHABLE_KEY%')
+        }
+      })();
+    </script>
+    <script type="text/javascript">
+        (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+        if (vgo) {
+          vgo('setAccount', '798920561');
+          vgo('setTrackByDefault', true);
+          vgo('process');
+        }
+    </script>
+  </body>
+</html>

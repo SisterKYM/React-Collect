@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "src/*": ["./src/*"],
+      "src/components/*": ["./src/components/*"]
+    }
+  },
+  "include": ["scripts/**/*.js", "config/**/*.js", "src/**/*.js"],
+  "exclude": ["node_modules", "build"]
+}
